@@ -8,6 +8,8 @@ Collections of tech assets
     - [shadcn](https://ui.shadcn.com/)
     - [daisyUI](https://daisyui.com/)
     - [Preline UI](https://preline.co/index.html)
+    - [Quasar](https://quasar.dev/)
+    - [PrimeVue](https://primevue.org/)
 
 
 - ## Graphic Resources
